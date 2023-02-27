@@ -1,1 +1,2 @@
-buildroot/buildroot_rpi
+rpi_buildroot/buildroot*/
+rpi_buildroot/buildroot*.tar.gz
