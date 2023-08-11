@@ -13,3 +13,4 @@ RUN apt-get -y install gperf autoconf flex texinfo help2man libtool libtool-bin 
 RUN apt-get -y install libsqlite3-dev cpio bc
 # just for build docs
 RUN apt-get -y install asciidoc w3m
+RUN apt clean 
